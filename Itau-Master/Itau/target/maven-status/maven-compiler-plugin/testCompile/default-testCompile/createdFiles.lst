@@ -1,0 +1,8 @@
+utility\Hook.class
+utility\ManipuladorJSON.class
+basePages\TelaResultadoBuscaPage.class
+basePages\TelaTutorialPage.class
+basePages\TelaInicialPage.class
+runner\RunTest.class
+interacoes\mobile\OrquestradorGestos.class
+steps\CarroStep.class
